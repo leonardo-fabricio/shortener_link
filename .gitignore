@@ -1,0 +1,5 @@
+/venv
+/myvenv
+/env
+db.sqlite3
+/media
